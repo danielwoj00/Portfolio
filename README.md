@@ -22,7 +22,5 @@ My name is Daniel Wojciechowski. I am young aspiring tester. My main goal is to 
 * Bug reports
 * Test cases
 
-## My Projects
+## My Test Case Examples
 
-* project
-  * .
