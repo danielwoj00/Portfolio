@@ -24,6 +24,6 @@ My name is Daniel Wojciechowski. I am young aspiring tester with IT Specialist d
 
 ## My Test Case Examples
 
-* [(ENG)Test cases for Rockmetalshop.pl](https://drive.google.com/file/d/1RdmrR8m3Bt_XXgxu-gyc6TtELxBcMjTX/view?usp=sharing)
-* [(PL)Test cases for Rockmetalshop.pl](https://drive.google.com/file/d/1l5ndQs_qkrO9z8iIEmadcV9rGUCQ64RR/view?usp=sharing)
+* [(ENG) Test cases for Rockmetalshop.pl](https://drive.google.com/file/d/1RdmrR8m3Bt_XXgxu-gyc6TtELxBcMjTX/view?usp=sharing)
+* [(PL) Test cases for Rockmetalshop.pl](https://drive.google.com/file/d/1l5ndQs_qkrO9z8iIEmadcV9rGUCQ64RR/view?usp=sharing)
 
