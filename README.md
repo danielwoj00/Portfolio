@@ -29,6 +29,5 @@ My name is Daniel Wojciechowski. I am young aspiring tester with IT Specialist d
 
 ## My Bug Reports examples
 
-*
-*
+* [Bug reports for uTest](https://drive.google.com/file/d/1vt-9Ymw5pz6Iu43xH61PIltt520wcoIq/view?usp=sharing)
 
