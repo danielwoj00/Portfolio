@@ -2,11 +2,12 @@
 
 ## About me
 
-My name is Daniel Wojciechowski. I am young aspiring tester with IT Technician degree. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
+My name is Daniel Wojciechowski. I am tester with more than 6 months of commercial experience. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
 
 ## Tools 
 
 * Jira
+* Azure
 
 ## Certificates
 
