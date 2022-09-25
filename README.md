@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Daniel Wojciechowski. I am a tester with over 6 months of commercial experience. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
+My name is Daniel Wojciechowski. I am a tester with over 1 year of commercial experience. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
 
 ## Tools 
 
